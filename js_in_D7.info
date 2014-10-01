@@ -1,0 +1,5 @@
+name = JS in Drupal 7
+description = Javascript Ajax playground
+core = 7.x
+
+files[] = js/jquery.examples.js
